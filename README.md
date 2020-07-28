@@ -3,8 +3,6 @@ Sentiment Analysis in python using logistic regression
 
 ## Task 1: Introduction and Importing the Data
 Introduction to the data set and the problem overview.
-See a demo of the final product you will build by the end of this project.
-Introduction to the Rhyme interface.
 Import essential modules and helper functions from NumPy, Matplotlib, and scikit-learn.
 
 ## Task 2: Transforming Documents into Feature Vectors
