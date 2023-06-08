@@ -1,8 +1,8 @@
 # Sentiment-analysis
-Sentiment Analysis in python using logistic regression
+Sentiment Analysis on IMDB movie dataset in python using logistic regression
 
 ## Task 1: Introduction and Importing the Data
-Introduction to the data set and the problem overview.
+We have used IMDB movie dataset for our analysis.
 Import essential modules and helper functions from NumPy, Matplotlib, and scikit-learn.
 
 ## Task 2: Transforming Documents into Feature Vectors
@@ -34,5 +34,6 @@ To estimate the best parameters and model, we employ cross-validated grid-search
 ## Task 8: Load Saved Model from Disk
 Although the time it takes to train logistic regression models is very little, estimating the best parameters for our model using GridSearchCV can take hours given the size of our training set.
 In this task, load a pre-trained model that will later be used to find the best parameter settings, cross validation score, and the test accuracy.
- ## Task 9: Model Accuracy
+
+## Task 9: Model Accuracy
 In this final task, we take a look at the best parameter settings, cross-validation score, and how well our model classifies the sentiments of reviews it has never seen before from the test set.
